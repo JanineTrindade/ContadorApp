@@ -1,5 +1,5 @@
 # contador
-
+Janine e Lucas
 A new Flutter project.
 
 ## Getting Started
